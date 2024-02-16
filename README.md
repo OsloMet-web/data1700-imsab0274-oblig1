@@ -17,3 +17,5 @@ Number field is checked to ensure that it contains a number. Its
 minimum value is set to 1 to ensure that 0 ore negative numbers can
 not be selected. Actually its value could have been set to 1, which would
 eliminate the check for value verification.
+
+#[LINK TO THE PAGE](https://oslomet-web.github.io/data1700-imsab0274-oblig1/src/main/resources/static/index.html)
